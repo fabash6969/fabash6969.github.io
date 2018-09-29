@@ -10,7 +10,7 @@
 1. 2011 Started working on HM-53E.
 1. 2018 Feb Moved to Atsugi Japan.
 1. 2018 Aug Started School at UMUC.
-1. 2018 Dec moved to Iwakuni Japan. 
+1. 2018 Dec moved to [Iwakuni, Japan](https://www.mcasiwakuni.marines.mil/)
 
 ![Photo of me in the back seat of an FA-18F in Flight](flighte.jpg)
 
