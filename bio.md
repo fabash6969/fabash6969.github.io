@@ -12,4 +12,6 @@
 1. 2018 Aug Started School at UMUC.
 1. 2018 Dec moved to Iwakuni Japan. 
 
+![Photo of me in the back seat of an FA-18F in Flight](flighte.jpg)
+
 [home](index)
