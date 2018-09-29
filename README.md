@@ -4,8 +4,8 @@
 
 
 #### Here is a little more about me and my bio.
-[home](bio)
+[biography](bio)
 #### Here is some information about my hobbies! 
-[home](topic)
+[Topic](topic)
 
 [home](index)
