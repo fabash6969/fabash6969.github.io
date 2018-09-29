@@ -11,3 +11,5 @@
 1. 2018 Feb Moved to Atsugi Japan.
 1. 2018 Aug Started School at UMUC.
 1. 2018 Dec moved to Iwakuni Japan. 
+
+[home](index)
