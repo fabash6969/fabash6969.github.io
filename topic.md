@@ -15,6 +15,6 @@
 
 ### I Received my first real camera in December of 2016 as a Christmas gift from my Husband Ian. Ever since that day I have been taking photos with it and even have taken a college course to learn more about photography! I love capturing memories that can last a lifetime!
 
-![photo i took of the great budah](buda1e.jpg)
+![photo i took of the great budah](buda1e.JPG)
 
 [Home](index) 
